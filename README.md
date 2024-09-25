@@ -2,16 +2,15 @@
 
 ## About Me 😎
 
-I'm a front-end developer with a passion for creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS, JavaScript, and TypeScript, with a deep understanding of front-end development principles and responsive design. I excel in building user-friendly, visually appealing web pages and have hands-on experience working on a variety of projects, from small-scale apps to larger, more complex platforms.
+I'm a front-end developer with a passion for creating beautiful and functional web applications. My expertise lies in HTML, CSS, Tailwind CSS, JavaScript, and TypeScript, with a strong understanding of front-end development principles and responsive design. I love using React, Nextjs and Vue to build dynamic user interfaces and efficiently manage state, and I've worked on projects ranging from small to large-scale applications.
 
-I love using React and Vue to create dynamic user interfaces, efficiently manage state, and optimize performance. I've also delved into React Native, which has allowed me to extend my skills into mobile app development, ensuring that users have a seamless experience across all platforms.
+I also have experience with React Native, extending my skill set to mobile app development, ensuring users enjoy a seamless experience across web and mobile platforms. Currently, I'm learning Node.js to further expand my full-stack capabilities, as well as deepening my expertise in React Native for mobile development.
 
-Additionally, I have a growing interest in Web 3 and Solidity for developing decentralized applications (dApps) on the blockchain. Exploring the possibilities in the world of smart contracts and decentralized technologies is something that excites me, and I'm eager to expand my knowledge in this field.
+In addition to my front-end work, I have a growing interest in Web3 and Solidity for developing decentralized applications (dApps) on the blockchain. Exploring blockchain technology and creating smart contracts is a field I'm eager to dive deeper into.
 
-I’m skilled at combining HTML and CSS to create stunning layouts and have a strong focus on writing clean, maintainable, and well-documented code. I’m well-versed in version control systems like Git and prioritize collaboration in my work. I enjoy solving technical challenges and finding innovative solutions while learning from the latest industry trends and best practices.
+I'm skilled at combining HTML and CSS to create visually appealing layouts and focused on writing clean, maintainable, and well-documented code. I'm proficient in version control systems like Git and prioritize collaboration and teamwork in my projects.
 
-If you're looking for a front-end developer with expertise in React, Vue, React Native, and a passion for Web 3 technologies like Solidity, let's work together and build something amazing!
-
+If you're looking for a front-end developer with expertise in React, Vue, React Native, and an interest in Web3 technologies like Solidity, and Node.js, let’s collaborate and build something amazing!
 
 ![Dhanielgeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanielgeek&show_icons=true&theme=dark)
 
