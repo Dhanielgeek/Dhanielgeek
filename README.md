@@ -17,8 +17,8 @@ If you're looking for a front-end developer with expertise in React, Vue, React 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... https://door-eight.vercel.app/
-- 🌱 I’m currently learning ...http://updraft.cyfrin.io
+- 🔭 I’m currently working on ... Merchant Payment Using Crypto https://door-eight.vercel.app/
+- 🌱 I’m currently learning ... Solidity and BlockChain
 - 👯 I’m looking to collaborate on ... Building new Projects and innovative ideas
 - 💬 Ask me about ... https://www.linkedin.com/in/ben-daniel-671883271/
 - 📫 How to reach me: ... danielbenevolent1@gmail.com
