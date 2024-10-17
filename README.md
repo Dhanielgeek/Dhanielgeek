@@ -12,7 +12,6 @@ I'm skilled at combining HTML and CSS to create visually appealing layouts and f
 
 If you're looking for a front-end developer with expertise in React, Vue, React Native, and an interest in Web3 technologies like Solidity, and Node.js, let’s collaborate and build something amazing!
 
-![Dhanielgeek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanielgeek&show_icons=true&theme=dark)
 
 
 Here are some ideas to get you started:
