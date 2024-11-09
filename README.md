@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ... Solidity and BlockChain
 - 👯 I’m looking to collaborate on ... Building new Projects and innovative ideas
 - 💬 Ask me about ... https://www.linkedin.com/in/ben-daniel-671883271/
-- 📫 How to reach me: ... danielbenevolent1@gmail.com ...09018785917
+- 📫 How to reach me: ... danielbenevolent1@gmail.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... i'm a SUCKER for Knowledge and New Things 😊
 
