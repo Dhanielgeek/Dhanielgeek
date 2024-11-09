@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... i'm a SUCKER for Knowledge and New Things 😊
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/BenDaniel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dreal_dhaniel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ben-daniel-671883271) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhaniel_knightz) 
+[![My Skills](https://skillicons.dev/icons?i=instagram,twitter,whatsapp,linkdin)](https://skillicons.dev)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,react,nodejs,nextjs,mongodb,solidity,sass,typescript,tailwind,python,git,postman,fastapi,redux,firebase,mysql)](https://skillicons.dev)
