@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Merchant Payment Using Crypto https://door-eight.vercel.app/
+- 🔭 I’m currently working on ... AjoThrift 
 - 🌱 I’m currently learning ... Solidity and BlockChain
 - 👯 I’m looking to collaborate on ... Building new Projects and innovative ideas
 - 💬 Ask me about ... https://www.linkedin.com/in/ben-daniel-671883271/
