@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=instagram,twitter,whatsapp,linkdin)](https://skillicons.dev)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,react,nodejs,nextjs,mongodb,solidity,sass,typescript,tailwind,python,git,postman,fastapi,redux,firebase,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,react,nodejs,nextjs,mongodb,solidity,sass,typescript,tailwind,python,git,fastapi,redux,firebase,mysql)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhanielgeek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhanielgeek&theme=dark&hide_border=false)<br/>
