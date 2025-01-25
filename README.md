@@ -1,4 +1,4 @@
-## Hi! I'm Ben Daniel. It's nice to meet you 🤝.
+## Hi! I'm Ben Daniel. It's nice to meet you.
 
 
 
