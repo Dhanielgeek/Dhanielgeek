@@ -1,21 +1,39 @@
-## Hi! I'm Ben Daniel. It's nice to meet you🥂.
+# 👋 Hi, I'm Ben Daniel  👨‍💻
+ 
+ Welcome to my GitHub profile! I'm a passionate **Web Developer** and **Tech Enthusiast** with a strong interest in **Web Development**, **Cryptocurrency**, and **Tech News**. I love exploring new technologies, solving complex problems, and sharing knowledge with the developer community.
+ 
+ ---
+ 
+ ## 🔧 Tech Stack & Tools:
+ - **Languages**: JavaScript, TypeScript, HTML, CSS, Solidity
+ - **Frameworks/Libraries**: React.js, Express.js, Node.js, Next.js, Tailwind CSS, React Native
+ - **Databases**: MongoDB, PostgreSQL,MySql
+ - **Tools**: Git, Docker, Vercel, Render.com, Netlify
+ 
+ ---
+ 
+ ## 🎯 Future Goals:
+ - Expanding my knowledge of **Web3** and **Blockchain Development**.
+ - Creating more open-source projects to help developers around the globe.
+ - Establishing a global digital marketplace where businesses of all kinds can operate effortlessly.
+ 
+ ---
+ 
+ ## 🌍 Connect With Me:
+ - Twitter: [@__dhaniel_knightz](https://x.com/dhaniel_knightz)
+ - LinkedIn: [Ben Daniel](https://www.linkedin.com/in/onah-victor)
+ 
+ ---
+ 
+ ## 📫 How to Reach Me:
+ Feel free to reach out to me for collaboration on exciting projects, web development inquiries, or just to talk tech! You can email me at: [danielbenevolent1@gmail.com](danielbenevolent1@gmail.com)
+ 
+ ---
+ 
+ Let's code, innovate, and build amazing things together! 🚀
 
 
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... AjoThrift 
-- 🌱 I’m currently learning ... Solidity and BlockChain
-- 👯 I’m looking to collaborate on ... Building new Projects and innovative ideas
-- 💬 Ask me about ... https://www.linkedin.com/in/ben-daniel-671883271/
-- 📫 How to reach me: ... danielbenevolent1@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... i'm a SUCKER for Knowledge and New Things 😊
-
-## 🌐 Socials:
-[![My Skills](https://skillicons.dev/icons?i=instagram,twitter,whatsapp,linkdin)](https://skillicons.dev)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,react,nodejs,nextjs,mongodb,vue,solidity,sass,typescript,tailwind,python,git,fastapi,redux,firebase,mysql)](https://skillicons.dev)
