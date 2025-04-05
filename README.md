@@ -21,7 +21,7 @@
  
  ## 🌍 Connect With Me:
  - Twitter: [@__dhaniel_knightz](https://x.com/dhaniel_knightz)
- - LinkedIn: [Ben Daniel](https://www.linkedin.com/in/onah-victor)
+ - LinkedIn: [Ben Daniel](https://linkedin.com/in/ben-daniel-671883271)
  
  ---
  
