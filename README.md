@@ -36,7 +36,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,react,nodejs,nextjs,mongodb,vue,solidity,sass,typescript,tailwind,python,git,fastapi,redux,firebase,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,react,nodejs,nextjs,mongodb,vue,solidity,sass,typescript,tailwind,python,git,fastapi,redux,firebase,mysql,reactnative)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Dhanielgeek&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhanielgeek&theme=dark&hide_border=false)<br/>
