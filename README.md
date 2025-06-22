@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Ben Daniel👨‍💻
- 
+
  Welcome to my GitHub profile! I'm a passionate **Web Developer** , **Mobile app developer** and **Tech Enthusiast** with a strong interest in **Web Development**, **Cryptocurrency**, and **Tech News**. I love exploring new technologies, solving complex problems, and sharing knowledge with the developer community.
  
  ---
