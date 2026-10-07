@@ -6,7 +6,7 @@
  
  ## 🔧 Tech Stack & Tools:
  - **Languages**: JavaScript, TypeScript, HTML, CSS, Solidity
- - **Frameworks/Libraries**: React.js, Express.js, Node.js, Next.js, Tailwind CSS, React Native
+ - **Frameworks/Libraries**: React.js, Express.js, Node.js, Next.js, Tailwind CSS, React Native,Flutter,Golang
  - **Databases**: MongoDB, PostgreSQL,MySql
  - **Tools**: Git, Docker, Vercel, Render.com, Netlify
  
